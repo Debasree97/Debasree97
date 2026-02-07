@@ -1,5 +1,6 @@
 ![Header](./github-header-banner.png)
-Hi,👋
+
+Hello,👋
 I am a Frontend Software Engineer with experience building real-world, user-facing products at scale.
 I specialize in React, Next.js, and TypeScript, with a strong focus on frontend architecture,
 complex workflows, and clean integration with backend APIs.
